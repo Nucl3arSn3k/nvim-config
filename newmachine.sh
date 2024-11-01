@@ -11,4 +11,4 @@ sudo make install
 #Install a nerdfont
 cd ..
 wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/0xProto.zip
-cp 0xProto.zip /user/share/fonts
+cp -r 0xProto.zip /usr/share/fonts
