@@ -1,5 +1,5 @@
 require("config.lazy")
-require("config.keymaps")
 require('lualine').setup()
+require("config.keymaps").setup()
 -- init.lua
 
