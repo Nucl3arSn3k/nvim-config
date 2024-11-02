@@ -2,7 +2,8 @@
   "barbar.nvim": { "branch": "master", "commit": "53b5a2f34b68875898f0531032fbf090e3952ad7" },
   "gitsigns.nvim": { "branch": "main", "commit": "7c27a30450130cd59c4994a6755e3c5d74d83e76" },
   "lazy.nvim": { "branch": "main", "commit": "cf8ecc2c5e4332760431a33534240b0cbc6680ab" },
-  "moonfly": { "branch": "master", "commit": "38de7cd9ef630bd3e5a45938ef77f248e2fe639d" },
-  "nvim-tree.lua": { "branch": "master", "commit": "120ba58254835d412bbc91cffe847e9be835fadd" },
+  "lualine.nvim": { "branch": "master", "commit": "640260d7c2d98779cab89b1e7088ab14ea354a02" },
+  "moonfly": { "branch": "master", "commit": "63f20d657c9fd46ecdd75bd45c321f74ef9b11fe" },
+  "nvim-tree.lua": { "branch": "master", "commit": "82ab19ebf79c1839d7351f2fed213d1af13a598e" },
   "nvim-web-devicons": { "branch": "master", "commit": "19d257cf889f79f4022163c3fbb5e08639077bd8" }
 }
