@@ -2,8 +2,8 @@
 apt-get install git neovim build-essential libreadline-dev unzip
 
 #Install luarocks
-curl -R -O http://www.lua.org/ftp/lua-5.3.5.tar.gz
-tar -zxf lua-5.3.5.tar.gz
+wget http://www.lua.org/ftp/lua-5.3.5.tar.gz
+tar -xvzf lua-5.3.5.tar.gz
 cd lua-5.3.5
 make linux test
 sudo make install
